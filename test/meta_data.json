@@ -1,0 +1,71 @@
+{
+    "ROIs": [
+        {
+            "top_left": [
+                256,
+                0
+            ],
+            "bottom_right": [
+                0,
+                256
+            ],
+            "bin": [
+                59651,
+                0
+            ]
+        }
+    ],
+    "controller_version": 0,
+    "logic_output": 8192,
+    "amp_high_cap_low_noise": 29798,
+    "mode": 28781,
+    "exposure_sec": 1.800948786350255e-41,
+    "date": "mp41isomav",
+    "detector_temp": 1.2140809887944758e+33,
+    "detector_type": 0,
+    "st_diode": 30317,
+    "delay_time": 3.60189757270051e-41,
+    "shutter_control": 0,
+    "absorb_live": true,
+    "absorb_mode": 20215,
+    "can_do_virtual_chip": true,
+    "threshold_min_live": true,
+    "threshold_min_val": 571746046443520.0,
+    "threshold_max_live": false,
+    "threshold_max_val": 2.3564669378610065e-38,
+    "time_local": "\x0e\x80\x80\x80\x04",
+    "time_utc": "\x00\x01\x0e\x80\x80\x80\x04",
+    "adc_offset": 512,
+    "adc_rate": 0,
+    "adc_type": 29502,
+    "adc_resolution": 29300,
+    "adc_bit_adjust": 27489,
+    "gain": 0,
+    "readout_time": 7.7039484524807785e+31,
+    "xml_footer_offset": 72057594037927936,
+    "type": null,
+    "clockspeed_us": 5.060789403909077e-41,
+    "readout_mode": null,
+    "window_size": 0,
+    "file_header_ver": 3.587324068671532e-43,
+    "chip_size": [
+        28793,
+        12852
+    ],
+    "virt_chip_size": [
+        0,
+        28781
+    ],
+    "pre_pixels": [
+        0,
+        0
+    ],
+    "post_pixels": [
+        256,
+        0
+    ],
+    "geometric": [
+        "rotate",
+        "reverse"
+    ]
+}
